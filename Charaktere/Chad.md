@@ -25,7 +25,7 @@ In der Unterstadt übernimmt Chad die Rolle des Stadtführers und führt die and
 
 Blutüberströmt und viel zu gut gelaunt stampft er danach zu ihnen herüber und schnappt auf, wie sie über den Pfortenstein sprechen. Kairu behauptet, es sei nur ein gewöhnlicher Edelstein. Chad zuckt mit den Schultern und wendet sich interessanteren Dingen zu.
 
-Ezekiels Einladung darf er nur folgen, nachdem Kröte ihn hat schwören lassen, auf dem Weg niemanden zu töten. Bei Ezekiel verlangt er nach Würstchen, die ihm alsbald auf einem Silbertablett serviert werden.
+[[Ezekiel|Ezekiels]] Einladung darf er nur folgen, nachdem Kröte ihn hat schwören lassen, auf dem Weg niemanden zu töten. Bei Ezekiel verlangt er nach Würstchen, die ihm alsbald auf einem Silbertablett serviert werden.
 
 ### Kapitel 4 – Der Auftrag
 Vor der Höhle der Banditen versucht Chad, eine Kiste mit Vorhängeschloss mit seinen Hörnern aufzubrechen, ohne Erfolg. Mit einer Brechstange gelingt es. Darin liegen Bolzen, Pfeile und ein Zweihandschwert, das Chad für sich beansprucht.
@@ -43,14 +43,14 @@ Im Altarraum beginnt zur Überraschung aller ausgerechnet Chad, die filigrane In
 
 Die Lösung des Rätsels ist **Schatten**. Chad spricht das Wort auf Elbisch aus, und die Tür zum nächsten Raum schwingt knarrend auf.
 
-Bei Ezekiel gibt es zu Chads Vergnügen wieder eine große Portion Würstchen. Während die anderen mit Ezekiel sprechen, stopft er sich Hände voller Würstchen in seine weitläufigen Taschen.
+Bei [[Ezekiel]] gibt es zu Chads Vergnügen wieder eine große Portion Würstchen. Während die anderen mit Ezekiel sprechen, stopft er sich Hände voller Würstchen in seine weitläufigen Taschen.
 
 ### Kapitel 6 – Ein Überfall im Dunkel der Nacht
-Beim Juwelier stiehlt Kröte ein Diadem und schenkt es Chad: „Steht dir bestimmt gut!" Er trägt es seitdem stolz auf dem Kopf.
+Beim Juwelier stiehlt [[Kröte]] ein Diadem und schenkt es Chad: „Steht dir bestimmt gut!" Er trägt es seitdem stolz auf dem Kopf.
 
-Während sich die Gruppe aufteilt, geht Chad in eine Taverne. Der Wirt erzählt ihm von einem Hehler am Hafen, der Schatzkarten verkauft, angeblich zu elfischen Relikten. In der Hafentaverne versucht Chad, den Hehler einzuschüchtern, doch die ganze Taverne stellt sich hinter den Händler. Erst [[Hildrissa]]s Zauber bringt den Hehler dazu, die Karten herauszugeben.
+Während sich die Gruppe aufteilt, geht Chad in eine Taverne. Der Wirt erzählt ihm von einem [[Hehler am Hafen]], der Schatzkarten verkauft, angeblich zu elfischen Relikten. In der Hafentaverne versucht Chad, den Hehler einzuschüchtern, doch die ganze Taverne stellt sich hinter den Händler. Erst [[Hildrissa]]s Zauber bringt den Hehler dazu, die Karten herauszugeben.
 
-Mit [[Kairu]] steigt Chad in ein kleines Fischerboot hinter dem Schiff der von Taras. Der Fischer darin ist ein Spion Phillips des Schönen, und Chad tötet ihn kurzerhand. Mit den letzten Worten des Sterbenden reagiert der Pfortenstein, und eine Kreatur, halb Spinne, halb Mensch, zieht ihn durch ein Portal. Durch eine kleine Luke gelangen Chad und Kairu ins Schiff und schleichen durch das erste Unterdeck bis zur vorderen Treppe.
+Mit [[Kairu]] steigt Chad in ein kleines Fischerboot hinter dem Schiff der von Taras. Der Fischer darin ist ein Spion [[Phillip der Schöne|Phillips des Schönen]], und Chad tötet ihn kurzerhand. Mit den letzten Worten des Sterbenden reagiert der Pfortenstein, und eine Kreatur, halb Spinne, halb Mensch, zieht ihn durch ein Portal. Durch eine kleine Luke gelangen Chad und Kairu ins Schiff und schleichen durch das erste Unterdeck bis zur vorderen Treppe.
 
 ### Kapitel 7 – Die Nacht im Hafen
 Chad ist während der Hafennacht mit den anderen auf dem Schiff der von Taras. Als Dank für ihre Hilfe bekommt die Gruppe ein kleines Ruderboot, wie gemacht für den Sumpf. Kurz hinter Galador rudert Chad die Gefährten in den Sumpf hinein, während es dunkler und das Wetter unruhiger wird.
