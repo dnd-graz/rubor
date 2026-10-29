@@ -1,0 +1,79 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: fanosta/quartz
+          path: quartz
+
+      - name: Check out notes
+        uses: actions/checkout@v4
+        with:
+          path: quartz/content
+          fetch-depth: 0 # full history for created/modified dates
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: quartz/package-lock.json
+
+      - name: Install dependencies
+        working-directory: quartz
+        run: npm ci
+
+      - name: Configure Quartz
+        working-directory: quartz
+        run: |
+          cp content/.config/quartz.config.ts quartz.config.ts
+          cp content/.config/quartz.layout.ts quartz.layout.ts
+
+          owner="${GITHUB_REPOSITORY_OWNER,,}"
+          repo="${GITHUB_REPOSITORY#*/}"
+          if [ "${repo,,}" = "$owner.github.io" ]; then
+            base_url="$owner.github.io"
+          else
+            base_url="$owner.github.io/$repo"
+          fi
+          sed -i "s|baseUrl: \".*\"|baseUrl: \"$base_url\"|" quartz.config.ts
+
+          if [ -f content/_attachments/icon.png ]; then
+            cp content/_attachments/icon.png quartz/static/icon.png
+          fi
+
+      - name: Build
+        working-directory: quartz
+        run: npx quartz build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
