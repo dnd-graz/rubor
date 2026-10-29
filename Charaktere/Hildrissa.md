@@ -35,7 +35,7 @@ Nun hat sie das Gebirge hinter sich gelassen. Ihr Ziel ist klar: Sie will ihre E
 ## In der Kampagne
 
 ### Kapitel 1 – Das Flüstern des Waldes
-Auf einem Waldpfad trifft Hildrissa auf [[Kairu]], [[Tarin]] und Kröte, als Banditen einen Händler überfallen. Ihre Drachenmale leuchten auf, und ein Funkenregen aus ihren Händen streckt einen der Angreifer nieder.
+Auf einem Waldpfad trifft Hildrissa auf [[Kairu]], [[Tarin]] und [[Kröte]], als Banditen einen Händler überfallen. Ihre Drachenmale leuchten auf, und ein Funkenregen aus ihren Händen streckt einen der Angreifer nieder.
 
 ### Kapitel 2 – Die Schatten
 In Wald im Blumental spricht sie der zwergische Edelmetallhändler Kretzak an: Sie schulde ihm noch immer eine Erklärung für das, was sie ihm gestohlen habe.
@@ -54,6 +54,8 @@ Mit ihrer Magierhand befreit sie zwei Händler aus einer Seilfalle und öffnet v
 In der Heiligenstätte durchsucht sie die zwei Steintruhen und findet Mondsteine und uralte Münzen. Darunter liegt auch ein Ring mit einem wunderschönen, tiefschwarzen Edelstein. Damit niemand bemerkt, wie sie ihn einsteckt, beschwört Hildrissa einen Fledermausschwarm, der kurz Panik auslöst. Der Ring schützt seine Trägerin vor nekrotischem Schaden. Den anderen hat sie bis heute nichts davon erzählt.
 
 ### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+In der Oberstadt begegnet die Gruppe Kretzak wieder, diesmal in seinem eigenen Laden. Von seinem Ärger ist nichts mehr zu spüren: Er spricht Hildrissas Begleiter an und erzählt, er sei stolz auf sie, weil sie die Lage in Wald im Blumental gelöst habe. Sie sei besser, als er sie eingeschätzt habe.
+
 Mit [[Tarin]] geht sie zur Bastion und schlägt dort per Handschlag in einen Auftrag ein: Ferdinand von Tara soll noch in derselben Nacht entführt werden. In der Hafentaverne bringt sie mit einem Zauber einen Hehler dazu, der Gruppe seine Karten zu schenken. Auf dem Schiff warnt sie Ferdinand, doch in seiner Kajüte versagt ihre Magie.
 
 ### Kapitel 7 – Die Nacht im Hafen

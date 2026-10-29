@@ -43,7 +43,7 @@ Das Schwert, die **Fluchklinge**, scheint auf jede Form von Unterdrückung zu re
 ## In der Kampagne
 
 ### Kapitel 1 – Das Flüstern des Waldes
-Auf einem Waldpfad trifft Tarin auf [[Hildrissa]], [[Kairu]] und Kröte, als Banditen einen Händler überfallen. Er stürmt mitten in die Feinde. Jeder seiner Schwerthiebe ist kontrolliert, jeder Schritt sicher.
+Auf einem Waldpfad trifft Tarin auf [[Hildrissa]], [[Kairu]] und [[Kröte]], als Banditen einen Händler überfallen. Er stürmt mitten in die Feinde. Jeder seiner Schwerthiebe ist kontrolliert, jeder Schritt sicher.
 
 ### Kapitel 5 – Ein Rätsel im Dunkeln
 Während seiner Nachtwache vor der Höhle hört Tarin ein kurioses Rascheln im Unterholz, kann die Ursache aber nicht ausmachen.
