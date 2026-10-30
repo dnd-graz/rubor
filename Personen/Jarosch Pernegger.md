@@ -11,7 +11,7 @@ Hauptmann Jarosch Pernegger führt die Wachen der von Taras. Er hat das eigentli
 | | |
 |---|---|
 | **Rolle** | Hauptmann der von Taras |
-| **Herkunft** | Elenor |
+| **Herkunft** | [[Elenor]] |
 | **Status** | lebt |
 | **Erste Begegnung** | Kapitel 6 |
 

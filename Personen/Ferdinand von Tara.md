@@ -6,7 +6,7 @@ aliases:
 tags:
   - nsc
 ---
-Ferdinand von Tara, genannt **Ferdl**, ist der junge Erbe der von Taras, eines Adelshauses aus Elenor. Das eigentliche Kommando über seine Leute hat [[Jarosch Pernegger]].
+Ferdinand von Tara, genannt **Ferdl**, ist der junge Erbe der von Taras, eines Adelshauses aus [[Elenor]]. Das eigentliche Kommando über seine Leute hat [[Jarosch Pernegger]].
 
 | | |
 |---|---|

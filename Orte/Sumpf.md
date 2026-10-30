@@ -39,6 +39,6 @@ Ezekiels Diener [[Kaspar Pichler]] überbringt eine dringende Nachricht:
 ### Kapitel 7 – Die Nacht im Hafen
 Nach der Hafennacht werden die von Taras Verbündete der Gruppe. Ihr Auftrag: den Namen der von Taras reinwaschen und herausfinden, wer hinter den Söldnern im Norden steckt.
 
-Das Schiff der von Taras fährt heim nach Elenor. Kurz hinter Galador liegt die Einfahrt in den Sumpf. Als Dank bekommt die Gruppe ein kleines Ruderboot, wie gemacht für den Sumpf. Die Gefährten sitzen beisammen und reden, und [[Chad]] rudert sie in den Sumpf. Es wird dunkler, das Wetter unruhiger. Im Hintergrund steht der Turm.
+Das Schiff der von Taras fährt heim nach [[Elenor]]. Kurz hinter Galador liegt die Einfahrt in den Sumpf. Als Dank bekommt die Gruppe ein kleines Ruderboot, wie gemacht für den Sumpf. Die Gefährten sitzen beisammen und reden, und [[Chad]] rudert sie in den Sumpf. Es wird dunkler, das Wetter unruhiger. Im Hintergrund steht der Turm.
 
 Hinter ihnen der Frieden, vor ihnen die nächste Gefahr. Sie wählen die Gefahr.

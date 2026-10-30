@@ -3,7 +3,7 @@ title: Priester des Ilmater
 tags:
   - nsc
 ---
-Ein Priester im [[Galador#Tempel des Ilmater|Tempel des Ilmater]] in Galador, den die Gruppe dort aufsucht. Ursprünglich stammt er aus Ethos.
+Ein Priester im [[Galador#Tempel des Ilmater|Tempel des Ilmater]] in Galador, den die Gruppe dort aufsucht. Ursprünglich stammt er aus [[Ethos]].
 
 | | |
 |---|---|

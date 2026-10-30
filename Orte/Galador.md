@@ -15,7 +15,7 @@ Galador ist eine große, geschäftige Stadt mit einem eigenen Hafen. Hier gibt e
 
 ## Stimmung und Politik
 
-Galador scheint sich auf einen Kampf vorzubereiten, ein Konflikt liegt in der Luft. Manch einer munkelt sogar von einem drohenden Krieg mit Elenor. Als die Gruppe das [[Wesen aus dem Portal]] einfängt, flüstert eine Wache der anderen zu, es sei womöglich ein Spion Elenors.
+Galador scheint sich auf einen Kampf vorzubereiten, ein Konflikt liegt in der Luft. Manch einer munkelt sogar von einem drohenden Krieg mit [[Elenor]]. Als die Gruppe das [[Wesen aus dem Portal]] einfängt, flüstert eine Wache der anderen zu, es sei womöglich ein Spion Elenors.
 
 Der Fürst hat sich seit dem Tod seiner Frau von der Politik zurückgezogen. Sein Sohn Phillip übernimmt die Angelegenheiten, die ihn interessieren, das Tagesgeschäft bleibt den Beamten. Großen Einfluss hat der **Stadtrat**, in dem auch [[Ezekiel]] einen Sitz hat. In der Frage, ob es Krieg geben soll, ist er 3:3 gespalten. Ezekiel ist gegen den Krieg.
 
