@@ -8,6 +8,8 @@ tags:
 ---
 Baron Hieronymus von Schlick ist ein Adeliger aus [[Altenburg]], der in [[Galador]] politisch mitmischt.
 
+![[schlick_intro.mp3]]
+
 | | |
 |---|---|
 | **Rolle** | Baron |
