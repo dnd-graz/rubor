@@ -8,6 +8,8 @@ tags:
 ---
 Ferdinand von Tara, genannt **Ferdl**, ist der junge Erbe der von Taras, eines Adelshauses aus [[Elenor]]. Das eigentliche Kommando über seine Leute hat [[Jarosch Pernegger]].
 
+![[ferdl_intro.mp3]]
+
 | | |
 |---|---|
 | **Rolle** | Erbe des Hauses von Tara |
