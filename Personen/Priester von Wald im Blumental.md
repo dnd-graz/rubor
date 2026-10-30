@@ -5,7 +5,7 @@ aliases:
 tags:
   - nsc
 ---
-Der Priester des Morninglord-Tempels in Wald im Blumental. Hinter seiner besorgten Fassade verbarg sich ein Kreis von Kuttenträgern, und am Ende streckte er selbst die Hand nach dem Pfortenstein aus.
+Der Priester des Morninglord-Tempels in [[Wald im Blumental]]. Hinter seiner besorgten Fassade verbarg sich ein Kreis von Kuttenträgern, und am Ende streckte er selbst die Hand nach dem Pfortenstein aus.
 
 | | |
 |---|---|

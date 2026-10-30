@@ -5,7 +5,7 @@ aliases:
 tags:
   - nsc
 ---
-Diana Eichenblatt hütete das Geheimnis des magischen Klangholzes von Wald im Blumental. Ihre Familie bewahrte es seit Generationen. Niemand wusste, woher das Holz stammte, niemand kannte den Hain, aus dem es kam, niemand außer Diana.
+Diana Eichenblatt hütete das Geheimnis des magischen Klangholzes von [[Wald im Blumental]]. Ihre Familie bewahrte es seit Generationen. Niemand wusste, woher das Holz stammte, niemand kannte den Hain, aus dem es kam, niemand außer Diana.
 
 | | |
 |---|---|

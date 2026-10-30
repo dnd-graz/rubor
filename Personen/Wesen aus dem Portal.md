@@ -3,12 +3,12 @@ title: Das Wesen aus dem Portal
 tags:
   - nsc
 ---
-Ein kleines Wesen, das während einer Schlägerei in Galador durch einen Riss im Himmel fiel.
+Ein kleines Wesen, das während einer Schlägerei in [[Galador]] durch einen Riss im Himmel fiel.
 
 | | |
 |---|---|
 | **Aussehen** | klein, hässlich, bösartige Augen, Knollennase, Hut |
-| **Ort** | gefesselt in der Kaserne von Galador |
+| **Ort** | gefesselt in der [[Galador#Bastion|Kaserne]] von Galador |
 | **Status** | lebt, gefangen |
 | **Erste Begegnung** | Kapitel 3 |
 

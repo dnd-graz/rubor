@@ -9,7 +9,7 @@ Kaspar Pichler ist ein hochgewachsener Mensch und ein Diener von [[Ezekiel]]. Er
 |---|---|
 | **Volk** | Mensch |
 | **Rolle** | Diener Ezekiels |
-| **Ort** | Oberstadt von Galador |
+| **Ort** | [[Galador#Oberstadt|Oberstadt von Galador]] |
 | **Status** | lebt |
 | **Erste Begegnung** | Kapitel 3 |
 
@@ -25,4 +25,4 @@ Er führt die Gruppe bis in den innersten Ring der Oberstadt, in die Nähe des P
 ### Kapitel 6 – Ein Überfall im Dunkel der Nacht
 Als Bote Ezekiels überbringt Kaspar der Gruppe eine dringende Nachricht:
 
-> „Die Sache eilt! Ihr müsst schnell in den Norden. Der Turm ist in Gefahr. [[Fregenal]] ebenfalls!"
+> „Die Sache eilt! Ihr müsst schnell in den Norden. Der [[Sumpf|Turm]] ist in Gefahr. [[Fregenal]] ebenfalls!"

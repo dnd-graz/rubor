@@ -41,7 +41,7 @@ Kairu hilft den Unterdrückten instinktiv, meidet jedoch enge Bindungen. Vertrau
 ## In der Kampagne
 
 ### Kapitel 1 – Das Flüstern des Waldes
-Auf einem Waldpfad trifft Kairu auf [[Hildrissa]], [[Tarin]] und [[Kröte]], als Banditen einen Händler überfallen. Er verschwindet zwischen den Schatten, und seine Dolche finden ihre Ziele mit tödlicher Präzision.
+Auf einem [[Wald im Blumental#Der Wald|Waldpfad]] trifft Kairu auf [[Hildrissa]], [[Tarin]] und [[Kröte]], als Banditen einen Händler überfallen. Er verschwindet zwischen den Schatten, und seine Dolche finden ihre Ziele mit tödlicher Präzision.
 
 ### Kapitel 2 – Die Schatten
 Kairu bringt [[Diana Eichenblatt|Dianas]] Lehrling [[Gunnar]] zum Tempel des Morninglord und zeigt dem [[Priester von Wald im Blumental|Priester]] die Eisenmünze aus der Goblin-Höhle. Als der Geistliche das Symbol erkennt, huscht ein Schatten über sein Gesicht: Es ist das Zeichen des Morninglord.
@@ -55,12 +55,12 @@ Als Diana sich in einen Vogel verwandelt und flieht, fängt er den fallenden **P
 ### Kapitel 3 – Eine Reise ins Ungewisse
 Kairu verwahrt nun den Pfortenstein und behält dabei stets [[Hildrissa]] im Auge, da er um ihre Vorliebe für wertvolle Dinge weiß.
 
-Bei einer Schlägerei in der Unterstadt von Galador versucht er zunächst zu vermitteln. Als die Gegner angreifen, formt er eine Peitsche aus Wasser und tötet seinen Gegner mit einem einzigen Hieb. Mitten im Gefecht spürt er ein dumpfes Grollen in seinem Rucksack. Über ihren Köpfen scheint der Himmel aufzureißen, und ein kleines, hässliches [[Wesen aus dem Portal|Wesen]] fällt heraus. Als [[Chad]] mitbekommt, wie die Gruppe über den Stein spricht, redet Kairu sich heraus: Es sei nur ein gewöhnlicher Edelstein ohne jede Magie.
+Bei einer Schlägerei in der Unterstadt von [[Galador]] versucht er zunächst zu vermitteln. Als die Gegner angreifen, formt er eine Peitsche aus Wasser und tötet seinen Gegner mit einem einzigen Hieb. Mitten im Gefecht spürt er ein dumpfes Grollen in seinem Rucksack. Über ihren Köpfen scheint der Himmel aufzureißen, und ein kleines, hässliches [[Wesen aus dem Portal|Wesen]] fällt heraus. Als [[Chad]] mitbekommt, wie die Gruppe über den Stein spricht, redet Kairu sich heraus: Es sei nur ein gewöhnlicher Edelstein ohne jede Magie.
 
 Die Nacht, in der er auf seinem Rucksack mitsamt dem Pfortenstein schläft, bekommt seinem Rücken gar nicht.
 
 ### Kapitel 4 – Der Auftrag
-Vor der Höhle der Banditen riecht Kairu mit seiner findigen Nase, dass in den Kisten des [[Bernd Pracker|Kümmelkaisers]] geschmuggeltes Gut transportiert wurde.
+Vor der [[Heiligenstätte|Höhle der Banditen]] riecht Kairu mit seiner findigen Nase, dass in den Kisten des [[Bernd Pracker|Kümmelkaisers]] geschmuggeltes Gut transportiert wurde.
 
 ### Kapitel 5 – Ein Rätsel im Dunkeln
 In [[Ezekiel|Ezekiels]] Bibliothek zieht Kairu einen vielversprechenden Band aus dem Regal: *Reliquien der Elfen, Band 1* von Elminster Aumar. Darin werden die Pfortensteine erwähnt. Sie sollen Städte unter Wasser erbaut und Stein geformt haben, und viele trachteten danach, sie als Waffe zu verwenden. Kairu liest von Spiegelwelten und von einem Ritual, das wahrscheinlich den Kataklysmus auslöste, mit dem die alte Zivilisation der Elfen unterging.

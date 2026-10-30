@@ -5,7 +5,7 @@ aliases:
 tags:
   - nsc
 ---
-Oberst Kräubel ist der Kommandant der Stadtwache von Galador.
+Oberst Kräubel ist der Kommandant der Stadtwache von [[Galador]].
 
 | | |
 |---|---|

@@ -3,7 +3,7 @@ title: Ezekiel
 tags:
   - nsc
 ---
-Ezekiel ist ein einflussreicher Händler in Galador und ein großer Büchernarr. Seine Handelskompanie hat ihr Hauptquartier in der Oberstadt, er selbst wohnt im innersten Ring nahe dem Palast und hat eine hohe Position im Stadtrat inne.
+Ezekiel ist ein einflussreicher Händler in [[Galador]] und ein großer Büchernarr. Seine Handelskompanie hat ihr Hauptquartier in der Oberstadt, er selbst wohnt im innersten Ring nahe dem Palast und hat eine hohe Position im Stadtrat inne.
 
 | | |
 |---|---|
@@ -22,12 +22,12 @@ Ezekiel ist ein imposanter Charakter. Er hat etwas Unheimliches an sich, eine be
 ### Kapitel 3 – Eine Reise ins Ungewisse
 Ein Wirt in der Unterstadt erzählt der Gruppe von Ezekiel und seiner besonderen Büchersammlung. Am nächsten Morgen holt [[Kaspar Pichler]] die Gruppe ab: „Mein Gebieter Ezekiel erwartet euch."
 
-Ezekiel scheint bereits zu wissen, dass die Gruppe ein magisches Artefakt bei sich trägt und Hilfe damit braucht. Er bietet einen Handel an: Zugang zu seiner Bibliothek, unter der Aufsicht von [[Johann]], im Gegenzug für einen Auftrag. Im Süden der Stadt ist eine Handelskarawane des [[Bernd Pracker|Kümmelkaisers]] auf der Straße nach Altenburg verschwunden. Die Gruppe soll herausfinden, was geschehen ist, wer dafür verantwortlich ist und welche Motive dahinterstecken. Jeder erhält 5 Goldstücke Vorschuss, und weitere 250 Goldstücke sind versprochen. [[Chad]] bekommt Würstchen auf einem Silbertablett.
+Ezekiel scheint bereits zu wissen, dass die Gruppe ein magisches Artefakt bei sich trägt und Hilfe damit braucht. Er bietet einen Handel an: Zugang zu seiner Bibliothek, unter der Aufsicht von [[Johann]], im Gegenzug für einen Auftrag. Im Süden der Stadt ist eine Handelskarawane des [[Bernd Pracker|Kümmelkaisers]] auf der [[Heiligenstätte#Die Straße nach Altenburg|Straße nach Altenburg]] verschwunden. Die Gruppe soll herausfinden, was geschehen ist, wer dafür verantwortlich ist und welche Motive dahinterstecken. Jeder erhält 5 Goldstücke Vorschuss, und weitere 250 Goldstücke sind versprochen. [[Chad]] bekommt Würstchen auf einem Silbertablett.
 
 ### Kapitel 5 – Ein Rätsel im Dunkeln
 Ezekiel zahlt der Gruppe die versprochenen 250 Goldstücke aus und serviert zu [[Chad|Chads]] Vergnügen wieder eine große Portion Würstchen. Auf die Frage nach Dolus hat er Antworten:
 
-> „Dolus … Dolus von Dagorlad! Der Söldnerführer. Er soll sich im Norden aufhalten, an einem seltsamen Ort. Umgeben von einem unnatürlichen Sumpf steht ein Turm, und in dieser Gegend tobt ein nie innehaltender Sturm. Ein aufstrebender Zauberer namens Fregenal hat sich dort eingerichtet. Einer der Fischer könnte euch bestimmt dahin mitnehmen."
+> „Dolus … Dolus von Dagorlad! Der Söldnerführer. Er soll sich im Norden aufhalten, an einem seltsamen Ort. Umgeben von einem unnatürlichen [[Sumpf]] steht ein Turm, und in dieser Gegend tobt ein nie innehaltender Sturm. Ein aufstrebender Zauberer namens Fregenal hat sich dort eingerichtet. Einer der Fischer könnte euch bestimmt dahin mitnehmen."
 
 Ezekiel löst sein Versprechen ein und öffnet der Gruppe seine Bibliothek. Dort findet [[Kairu]] *Reliquien der Elfen, Band 1*.
 

@@ -10,14 +10,14 @@ Dolus von Dagorlad ist ein Söldnerführer. Die Gruppe kennt ihn bisher nur als 
 | | |
 |---|---|
 | **Rolle** | Söldnerführer |
-| **Aufenthaltsort** | angeblich im Norden, beim Turm im Sumpf |
+| **Aufenthaltsort** | angeblich im Norden, beim [[Sumpf|Turm im Sumpf]] |
 | **Status** | unbekannt |
 | **Erstmals erwähnt** | Kapitel 5 |
 
 ## Was die Gruppe weiß
 
 ### Kapitel 5 – Ein Rätsel im Dunkeln
-In der Heiligenstätte trägt ein schwer verletzter Fremder eine Schriftrolle bei sich, unterzeichnet von einem gewissen Dolus:
+In der [[Heiligenstätte]] trägt ein schwer verletzter Fremder eine Schriftrolle bei sich, unterzeichnet von einem gewissen Dolus:
 
 > „Nur das Artefakt, lasst den Rest, wo er ist."
 

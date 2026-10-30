@@ -8,7 +8,7 @@ Johann ist eine blasse Gestalt und ein Diener von [[Ezekiel]]. Er beaufsichtigt 
 | | |
 |---|---|
 | **Rolle** | Diener Ezekiels, Aufsicht in der Bibliothek |
-| **Ort** | Oberstadt von Galador |
+| **Ort** | [[Galador#Oberstadt|Oberstadt von Galador]] |
 | **Status** | lebt |
 | **Erste Begegnung** | Kapitel 3 |
 

@@ -8,7 +8,7 @@ Der einzige Überlebende der Banditen, die [[Torben Moosback]] im Wald überfiel
 | | |
 |---|---|
 | **Rolle** | Bandit |
-| **Ort** | Kerker von Wald im Blumental |
+| **Ort** | Kerker von [[Wald im Blumental]] |
 | **Status** | lebt, verurteilt |
 | **Erste Begegnung** | Kapitel 1 |
 

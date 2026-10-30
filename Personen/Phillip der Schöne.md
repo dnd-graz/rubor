@@ -5,7 +5,7 @@ aliases:
 tags:
   - nsc
 ---
-Phillip der Schöne ist der Erbe des [[Fürst von Haugwitz|Fürsten von Haugwitz]] in Galador.
+Phillip der Schöne ist der Erbe des [[Fürst von Haugwitz|Fürsten von Haugwitz]] in [[Galador]].
 
 | | |
 |---|---|

@@ -8,14 +8,14 @@ Torben Moosback ist ein Händler, dem die Gruppe gleich bei ihrer ersten Begegnu
 | | |
 |---|---|
 | **Rolle** | Händler |
-| **Wohnort** | Galador |
+| **Wohnort** | [[Galador]] |
 | **Status** | lebt |
 | **Erste Begegnung** | Kapitel 1 |
 
 ## Begegnungen
 
 ### Kapitel 1 – Das Flüstern des Waldes
-Auf einem einsamen Waldpfad überfällt ein Pack Banditen Torbens Handelswagen. [[Hildrissa]], [[Kairu]], [[Tarin]] und [[Kröte]] kommen ihm zu Hilfe. Zum Dank bietet er ihnen an:
+Auf einem einsamen [[Wald im Blumental#Der Wald|Waldpfad]] überfällt ein Pack Banditen Torbens Handelswagen. [[Hildrissa]], [[Kairu]], [[Tarin]] und [[Kröte]] kommen ihm zu Hilfe. Zum Dank bietet er ihnen an:
 
 > „Ihr habt mir das Leben gerettet. Solltet ihr jemals nach Galador kommen, steht euch mein Haus offen. Und ich werde jedem erzählen, wem ich mein Leben verdanke."
 

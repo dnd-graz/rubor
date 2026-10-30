@@ -3,7 +3,7 @@ title: Hyala
 tags:
   - nsc
 ---
-Hyala ist die Bürgermeisterin von Wald im Blumental.
+Hyala ist die Bürgermeisterin von [[Wald im Blumental]].
 
 | | |
 |---|---|

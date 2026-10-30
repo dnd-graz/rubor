@@ -6,7 +6,7 @@ aliases:
 tags:
   - nsc
 ---
-Friedrich Adolf von Haugwitz ist der Fürst von Galador. Seit seine Frau im Kindbett starb, hat er sich von der Politik zurückgezogen und überlässt die Geschäfte weitgehend anderen.
+Friedrich Adolf von Haugwitz ist der Fürst von [[Galador]]. Seit seine Frau im Kindbett starb, hat er sich von der Politik zurückgezogen und überlässt die Geschäfte weitgehend anderen.
 
 | | |
 |---|---|

@@ -3,7 +3,7 @@ title: Der Hehler am Hafen
 tags:
   - nsc
 ---
-Ein Hehler in einer Hafentaverne von Galador, der Schatzkarten verkauft, angeblich zu elfischen Relikten.
+Ein Hehler in einer Hafentaverne von [[Galador]], der Schatzkarten verkauft, angeblich zu elfischen Relikten.
 
 | | |
 |---|---|

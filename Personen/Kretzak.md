@@ -9,14 +9,14 @@ Kretzak ist ein zwergischer Edelmetallhändler und Juwelier. Er ist breit gebaut
 |---|---|
 | **Volk** | Zwerg |
 | **Rolle** | Edelmetallhändler, Juwelier |
-| **Ort** | Oberstadt von Galador |
+| **Ort** | [[Galador#Oberstadt|Oberstadt von Galador]] |
 | **Status** | lebt |
 | **Erste Begegnung** | Kapitel 2 |
 
 ## Begegnungen
 
 ### Kapitel 2 – Die Schatten
-Noch bevor die Gruppe in Wald im Blumental die Taverne erreicht, spricht Kretzak [[Hildrissa]] an. Seine Stimme klingt nicht erfreut:
+Noch bevor die Gruppe in [[Wald im Blumental]] die Taverne erreicht, spricht Kretzak [[Hildrissa]] an. Seine Stimme klingt nicht erfreut:
 
 > „Ich hätte nie gedacht, dich hier zu treffen. Du schuldest mir noch immer eine Erklärung für das, was du mir gestohlen hast."
 

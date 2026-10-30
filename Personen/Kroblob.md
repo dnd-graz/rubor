@@ -3,7 +3,7 @@ title: Kroblob
 tags:
   - nsc
 ---
-Kroblob ist ein Zwerg, der in der Gegend von Wald im Blumental spurlos verschwunden ist.
+Kroblob ist ein Zwerg, der in der Gegend von [[Wald im Blumental]] spurlos verschwunden ist.
 
 | | |
 |---|---|

@@ -8,7 +8,7 @@ Gunnar ist der Lehrling von [[Diana Eichenblatt]].
 | | |
 |---|---|
 | **Rolle** | Dianas Lehrling |
-| **Ort** | Wald im Blumental |
+| **Ort** | [[Wald im Blumental]] |
 | **Status** | lebt |
 | **Erste Begegnung** | Kapitel 1 |
 

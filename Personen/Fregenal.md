@@ -3,7 +3,7 @@ title: Fregenal
 tags:
   - nsc
 ---
-Fregenal ist ein aufstrebender Zauberer, der sich im Turm im Sumpf nördlich von Galador eingerichtet hat. Die Gruppe ist ihm noch nicht begegnet.
+Fregenal ist ein aufstrebender Zauberer, der sich im [[Sumpf|Turm im Sumpf]] nördlich von [[Galador]] eingerichtet hat. Die Gruppe ist ihm noch nicht begegnet.
 
 | | |
 |---|---|

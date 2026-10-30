@@ -18,7 +18,7 @@ Hauptmann Jarosch Pernegger führt die Wachen der von Taras. Er hat das eigentli
 ## Begegnungen
 
 ### Kapitel 6 – Ein Überfall im Dunkel der Nacht
-Jarosch teilt sich mit [[Ferdinand von Tara|Ferdinand]] die Kajüte am Bug des großen Schiffs der von Taras im Hafen von Galador.
+Jarosch teilt sich mit [[Ferdinand von Tara|Ferdinand]] die Kajüte am Bug des großen Schiffs der von Taras im [[Galador#Hafen|Hafen von Galador]].
 
 ### Kapitel 7 – Die Nacht im Hafen
 Als ein Krake das Schiff angreift, stürzt sich Jarosch sofort selbst auf ihn. Runde um Runde holt er mehr Wachen aus den Unterdecks an Deck.

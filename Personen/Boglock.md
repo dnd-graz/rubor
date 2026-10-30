@@ -3,7 +3,7 @@ title: Boglock
 tags:
   - nsc
 ---
-Boglock war ein Goblin, der in einer Höhle tief im Wald bei Wald im Blumental die Befehle erteilte.
+Boglock war ein Goblin, der in einer Höhle tief im Wald bei [[Wald im Blumental]] die Befehle erteilte.
 
 | | |
 |---|---|

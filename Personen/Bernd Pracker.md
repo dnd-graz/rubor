@@ -6,7 +6,7 @@ aliases:
 tags:
   - nsc
 ---
-Bernd Pracker, genannt **der Kümmelkaiser**, ist ein erfolgreicher Gewürzhändler in Galador. Trotz seines beträchtlichen Reichtums residiert er noch immer in der Unterstadt.
+Bernd Pracker, genannt **der Kümmelkaiser**, ist ein erfolgreicher Gewürzhändler in [[Galador]]. Trotz seines beträchtlichen Reichtums residiert er noch immer in der Unterstadt.
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@ Bernd Pracker, genannt **der Kümmelkaiser**, ist ein erfolgreicher Gewürzhänd
 ## Begegnungen
 
 ### Kapitel 3 – Eine Reise ins Ungewisse
-Die Karawane, die die Gruppe für [[Ezekiel]] suchen soll, war ein Gewürztransport und gehört zum Unternehmen des Kümmelkaisers. Sie wurde auf der Straße nach Altenburg überfallen.
+Die Karawane, die die Gruppe für [[Ezekiel]] suchen soll, war ein Gewürztransport und gehört zum Unternehmen des Kümmelkaisers. Sie wurde auf der [[Heiligenstätte#Die Straße nach Altenburg|Straße nach Altenburg]] überfallen.
 
 ### Kapitel 4 – Der Auftrag
 Vor der Höhle der Banditen findet die Gruppe die schweren Kisten der Karawane. [[Kairu]] riecht, dass darin geschmuggeltes Gut transportiert wurde, und eine verschlossene Kiste enthält Bolzen, Pfeile und ein Zweihandschwert. Die Gruppe beginnt, an der Integrität des Kümmelkaisers zu zweifeln.

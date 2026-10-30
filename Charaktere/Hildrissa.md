@@ -38,17 +38,17 @@ Nun hat sie das Gebirge hinter sich gelassen. Ihr Ziel ist klar: Sie will ihre E
 Auf einem Waldpfad trifft Hildrissa auf [[Kairu]], [[Tarin]] und [[Kröte]], als Banditen einen Händler überfallen. Ihre Drachenmale leuchten auf, und ein Funkenregen aus ihren Händen streckt einen der Angreifer nieder.
 
 ### Kapitel 2 – Die Schatten
-In Wald im Blumental spricht sie der zwergische Edelmetallhändler [[Kretzak]] an: Sie schulde ihm noch immer eine Erklärung für das, was sie ihm gestohlen habe.
+In [[Wald im Blumental]] spricht sie der zwergische Edelmetallhändler [[Kretzak]] an: Sie schulde ihm noch immer eine Erklärung für das, was sie ihm gestohlen habe.
 
 Hildrissa nimmt die Gestalt der Bürgermeisterin [[Hyala]] an und sucht so den [[Priester von Wald im Blumental|Dorfpriester]] auf. In der Nacht beobachtet sie, wie vermummte Gestalten in schwarzen Kutten beim Tempel erscheinen, unter ihnen der Priester selbst.
 
 Im Hain entdeckt sie eine zwergische Brosche, die aus einem frisch ausgehobenen Grab ragt. Als sie droht, den ganzen Wald niederzubrennen, gibt [[Diana Eichenblatt|Diana]] auf.
 
 ### Kapitel 3 – Eine Reise ins Ungewisse
-Bei einer Schlägerei in der Unterstadt von Galador lässt sie Flammen aus ihren Händen lodern. Das kleine [[Wesen aus dem Portal|Wesen, das aus dem Portal gefallen ist]], schläfert sie mit einem Zauber ein, sodass die Stadtwache es fesseln kann.
+Bei einer Schlägerei in der Unterstadt von [[Galador]] lässt sie Flammen aus ihren Händen lodern. Das kleine [[Wesen aus dem Portal|Wesen, das aus dem Portal gefallen ist]], schläfert sie mit einem Zauber ein, sodass die Stadtwache es fesseln kann.
 
 ### Kapitel 4 – Der Auftrag
-Mit ihrer Magierhand befreit sie zwei Händler aus einer Seilfalle und öffnet vorsichtig die Tür zur Höhle der Banditen. Aus einer Kiste der Schmuggelware nimmt sie Bolzen für ihre Armbrust.
+Mit ihrer Magierhand befreit sie zwei Händler aus einer Seilfalle und öffnet vorsichtig die Tür zur [[Heiligenstätte|Höhle der Banditen]]. Aus einer Kiste der Schmuggelware nimmt sie Bolzen für ihre Armbrust.
 
 ### Kapitel 5 – Ein Rätsel im Dunkeln
 In der Heiligenstätte durchsucht sie die zwei Steintruhen und findet Mondsteine und uralte Münzen. Darunter liegt auch ein Ring mit einem wunderschönen, tiefschwarzen Edelstein. Damit niemand bemerkt, wie sie ihn einsteckt, beschwört Hildrissa einen Fledermausschwarm, der kurz Panik auslöst. Der Ring schützt seine Trägerin vor nekrotischem Schaden. Den anderen hat sie bis heute nichts davon erzählt.
