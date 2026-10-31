@@ -5,7 +5,7 @@ tags:
 ---
 Liserl ist ein kleines Eichhörnchen und eine Informantin von [[Kröte]]. Sie reist mit dem Adler [[Arborius]].
 
-![[ezekiel_intro.mp3]]
+![[lieserl_intro.mp3]]
 
 | | |
 |---|---|

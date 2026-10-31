@@ -8,6 +8,8 @@ tags:
 ---
 Bernd Pracker, genannt **der Kümmelkaiser**, ist ein erfolgreicher Gewürzhändler in [[Galador]]. Trotz seines beträchtlichen Reichtums residiert er noch immer in der Unterstadt.
 
+![[kummel_intro.mp3]]
+
 | | |
 |---|---|
 | **Rolle** | Gewürzhändler |

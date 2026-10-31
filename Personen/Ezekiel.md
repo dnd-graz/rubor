@@ -5,7 +5,7 @@ tags:
 ---
 Ezekiel ist ein einflussreicher Händler in [[Galador]] und ein großer Büchernarr. Seine Handelskompanie hat ihr Hauptquartier in der Oberstadt, er selbst wohnt im innersten Ring nahe dem Palast und hat eine hohe Position im Stadtrat inne.
 
-![[lieserl_intro.mp3]]
+![[ezekiel_intro.mp3]]
 
 | | |
 |---|---|
