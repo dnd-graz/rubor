@@ -12,11 +12,11 @@ Der Priester des Morninglord-Tempels in [[Wald im Blumental]]. Hinter seiner bes
 | **Rolle** | Priester des Morninglord |
 | **Ort** | Wald im Blumental |
 | **Status** | lebt, verwundet |
-| **Erste Begegnung** | Kapitel 2 |
+| **Erste Begegnung** | [[Kapitel 2]] |
 
 ## Begegnungen
 
-### Kapitel 2 – Die Schatten
+### [[Kapitel 2|Kapitel 2 – Die Schatten]]
 [[Kairu]] bringt [[Gunnar]] zum Tempel und zeigt dem Priester die Eisenmünze aus der Goblin-Höhle. Als der Geistliche das Symbol erkennt, huscht ein Schatten über sein Gesicht: Es ist das Zeichen des Morninglord.
 
 Als [[Hildrissa]] ihn in der Gestalt der Bürgermeisterin [[Hyala]] aufsucht, wirkt er nervös und beunruhigt:

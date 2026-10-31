@@ -42,18 +42,18 @@ Das Schwert, die **Fluchklinge**, scheint auf jede Form von Unterdrückung zu re
 
 ## In der Kampagne
 
-### Kapitel 1 – Das Flüstern des Waldes
+### [[Kapitel 1|Kapitel 1 – Das Flüstern des Waldes]]
 Auf einem [[Wald im Blumental#Der Wald|Waldpfad]] trifft Tarin auf [[Hildrissa]], [[Kairu]] und [[Kröte]], als Banditen einen Händler überfallen. Er stürmt mitten in die Feinde. Jeder seiner Schwerthiebe ist kontrolliert, jeder Schritt sicher.
 
-### Kapitel 5 – Ein Rätsel im Dunkeln
+### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 Während seiner Nachtwache vor der [[Heiligenstätte|Höhle]] hört Tarin ein kurioses Rascheln im Unterholz, kann die Ursache aber nicht ausmachen. Es war das Eichhörnchen [[Liserl]], das nach Kröte suchte.
 
 In der Heiligenstätte, vor der leeren Halterung, werden seine Augen plötzlich glasig, und er sackt auf die Knie. Eine Vision offenbart sich ihm: ein Stein, dem Pfortenstein nicht unähnlich, in dem dichter Nebel wabert. Dazu eine violette Gestalt mit Hörnern. Hilflos sieht er zu, wie furchteinflößende Steingolems die Banditen töten. Als er zu sich kommt, ist er sich sicher, dass hier einst ein Pfortenstein aufbewahrt wurde.
 
 Für die wiedererlangten Handelsgüter baut er einen notdürftigen Karren. In [[Ezekiel|Ezekiels]] Bibliothek fragt er den Diener [[Johann]] im Geheimen nach einem Buch über magische Schwerter, vor allem über solche, die plötzlich erscheinen. Johann hüstelt und meint, ein Buch über das **Schattenfell** könnte dazu nützliche Informationen enthalten.
 
-### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 Mit [[Hildrissa]] geht er zur [[Galador#Bastion|Bastion]] und schlägt dort per Handschlag in einen Auftrag ein: [[Ferdinand von Tara]] soll noch in derselben Nacht entführt werden. Auf dem Schiff warnen die beiden Ferdinand, doch er will nicht fliehen.
 
-### Kapitel 7 – Die Nacht im Hafen
+### [[Kapitel 7|Kapitel 7 – Die Nacht im Hafen]]
 Tarin belegt [[Phillip der Schöne|Phillip den Schönen]] mit Furcht, sodass dieser am Hafen bleibt und nicht an Bord kommt. Sobald das Chaos losbricht, geht Tarin selbst an Bord.

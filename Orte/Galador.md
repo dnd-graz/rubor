@@ -11,7 +11,7 @@ Galador ist eine große, geschäftige Stadt mit einem eigenen Hafen. Hier gibt e
 | **Herrscher** | [[Fürst von Haugwitz]] |
 | **Erbe** | [[Phillip der Schöne]] |
 | **Stadtviertel** | Unterstadt, Oberstadt, Hafen |
-| **Besucht** | Kapitel 3–7 |
+| **Besucht** | [[Kapitel 3]]–[[Kapitel 7|7]] |
 
 ## Stimmung und Politik
 
@@ -33,7 +33,7 @@ Die Unterstadt ist die Heimat vieler zwielichtiger Gestalten. Für Kröte, die l
 
 ## Bastion
 
-Die Bastion in der Unterstadt ist der Sitz von Stadtwache und Militär Galadors. Ihr Kommandant ist [[Oberst Kräubel]]. In ihrer Kaserne sitzt seit Kapitel 3 das Wesen aus dem Portal, gefesselt und weggesperrt.
+Die Bastion in der Unterstadt ist der Sitz von Stadtwache und Militär Galadors. Ihr Kommandant ist [[Oberst Kräubel]]. In ihrer Kaserne sitzt seit [[Kapitel 3]] das Wesen aus dem Portal, gefesselt und weggesperrt.
 
 Auf der Suche nach Aufträgen treffen [[Hildrissa]] und [[Tarin]] hier Oberst Kräubel im Gespräch mit Phillip dem Schönen und [[Baron Hieronymus von Schlick]]. Der Baron beschuldigt Ferdinand von Tara des Verrats und erteilt den Auftrag, ihn noch in derselben Nacht zu entführen. Hildrissa und Tarin schlagen ein.
 
@@ -57,16 +57,16 @@ Im Tempel des Ilmater begutachtet der [[Priester des Ilmater|Priester aus Ethos]
 
 ## Was hier geschah
 
-### Kapitel 3 – Eine Reise ins Ungewisse
+### [[Kapitel 3|Kapitel 3 – Eine Reise ins Ungewisse]]
 Am Stadttor schließt sich Chad der Gruppe an. In der Unterstadt geraten die Gefährten in eine Schlägerei, und der Pfortenstein lässt das Wesen aus dem Portal vom Himmel fallen. Die Stadtwache sperrt es in der Kaserne weg. Am nächsten Morgen holt [[Kaspar Pichler]] die Gruppe ab und führt sie zu Ezekiel, der ihr einen Auftrag gibt: die verschwundene Karawane des Kümmelkaisers auf der [[Heiligenstätte#Die Straße nach Altenburg|Straße nach Altenburg]].
 
-### Kapitel 5 – Ein Rätsel im Dunkeln
+### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 Vor den Toren trifft die Gruppe den Kümmelkaiser und folgt ihm in seine Residenz. Danach zahlt Ezekiel die versprochenen 250 Goldstücke aus, erzählt von [[Dolus von Dagorlad]] und dem [[Sumpf|Turm im Norden]] und öffnet seine Bibliothek.
 
-### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 Die Gruppe verkauft ihre Beute, trifft Torben wieder und teilt sich auf: Hildrissa und Tarin gehen zur Bastion, Chad in die Taverne, Kröte und Kairu in den Tempel des Ilmater. Kaspar überbringt Ezekiels dringende Bitte, in den Norden zu reisen. Die Gruppe geht stattdessen zum Hafen, holt sich die Karten des Hehlers, trifft die Verschwörer in der Fischerhütte und schleicht sich auf das Schiff der von Taras, um Ferdinand zu warnen. Am Ende schlägt Chad den Spion im Fischerboot tot, ein Portal verschlingt den Sterbenden, und Kröte richtet als Riesenkrake Chaos an Deck an. Der ganze Hafen ist in Aufruhr.
 
-### Kapitel 7 – Die Nacht im Hafen
+### [[Kapitel 7|Kapitel 7 – Die Nacht im Hafen]]
 Im Hafen tobt ein Kampf zwischen den Wachen der von Taras, Phillips Leuten und einem Riesenkraken. Die Gruppe stellt sich zwischen die Fronten und bringt das Schiff zum Ablegen. Auf jeder Seite sterben etwa zwölf Männer, keiner durch die Hand der Gruppe. Die Stadtwache greift nicht ein.
 
 Das Schiff der von Taras fährt heim nach Elenor. Kurz hinter Galador liegt die Einfahrt in den [[Sumpf]], und dorthin rudert Chad die Gruppe im Abendlicht.

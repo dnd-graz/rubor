@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     locale: "de-DE",
     // overwritten by .github/workflows/deploy.yml with <user>.github.io/<repo>
     baseUrl: "localhost:8080",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "README.md"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {

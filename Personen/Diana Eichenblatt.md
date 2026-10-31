@@ -12,14 +12,14 @@ Diana Eichenblatt hütete das Geheimnis des magischen Klangholzes von [[Wald im 
 | **Rolle** | Hüterin des Klangholzes |
 | **Ort** | Wald im Blumental, der Hain |
 | **Status** | tot |
-| **Erste Begegnung** | Kapitel 1 |
+| **Erste Begegnung** | [[Kapitel 1]] |
 
 ## Begegnungen
 
-### Kapitel 1 – Das Flüstern des Waldes
+### [[Kapitel 1|Kapitel 1 – Das Flüstern des Waldes]]
 Im Dorf hört die Gruppe überall denselben Namen: Diana. Etwas von ihrem kostbaren Holz ist verschwunden, und auch Menschen verschwinden. Der [[Gefangener Bandit|gefangene Bandit]] gesteht, dass ein Überfall auf Diana geplant ist: Jemand will sie entführen, um jeden Preis.
 
-### Kapitel 2 – Die Schatten
+### [[Kapitel 2|Kapitel 2 – Die Schatten]]
 Diana erhält ihr gestohlenes Holz zurück und bedankt sich auf ihre eigene, distanzierte Weise. Als Belohnung darf sich die Gruppe ein Instrument aus dem magischen Holz aussuchen und wählt eine Geige.
 
 Bei der Versammlung der Dorfführer beschuldigt sie der [[Priester von Wald im Blumental|Dorfpriester]], mehr über die Überfälle und die verschwundenen Menschen zu wissen, als sie zugibt. Diana reagiert mit eisiger Wut:

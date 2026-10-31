@@ -12,7 +12,7 @@ Die Heiligenstätte ist eine uralte elfische Anlage im Wald an der Straße von [
 | **Art** | elfische Ruine |
 | **Lage** | im Wald südlich von Galador, etwa einen Kilometer östlich der Straße nach Altenburg |
 | **Inschriften** | auf Elbisch |
-| **Besucht** | Kapitel 4, 5 |
+| **Besucht** | [[Kapitel 4]], [[Kapitel 5|5]] |
 
 ## Die Elfen
 
@@ -64,14 +64,14 @@ In den Truhen findet [[Hildrissa]] Mondsteine, uralte Münzen und einen Ring mit
 
 ## Was hier geschah
 
-### Kapitel 4 – Der Auftrag
+### [[Kapitel 4|Kapitel 4 – Der Auftrag]]
 Auf der Suche nach der verschwundenen Karawane trifft die Gruppe auf der Straße nach Altenburg Pilger des Ilmater, die vom Ort des Überfalls berichten. Dort finden die Gefährten den Wagen in der Schlucht, und Kröte erfährt von einem Eichhörnchen, dass die Banditen „mehr als der Nussvorrat für ein Wochenende, aber weniger als die Nüsse für den Winter“ waren.
 
 Die beiden Händler aus der Seilfalle erzählen, wie sich urplötzlich der Himmel verdunkelte und ihre Pferde einfach verschwanden, von einem Moment auf den anderen, und wie viel Blut da war. Danach plünderten sechs Banditen in schwerer Rüstung und Tarnkleidung ihren Wagen. Sie sprachen eine Form von Elbisch, und ihr Lager liege einen Kilometer weiter östlich.
 
 Die Gruppe findet das Lager, öffnet die Tür und besteht den Kampf gegen die Schatten. Erschöpft rastet sie im Wald vor der Höhle.
 
-### Kapitel 5 – Ein Rätsel im Dunkeln
+### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 In der Nacht hört Tarin ein Rascheln im Unterholz. Es ist das Eichhörnchen [[Liserl]], das nach Kröte sucht. Am Morgen dringt die Gruppe weiter vor. Chad bringt den Verletzten hinaus an den Waldrand, wo er ihn mit einer Ohrfeige versehentlich tötet und heimlich im Wald verscharrt. Die Gruppe löst das Rätsel des Altars und findet die leere Halterung.
 
 Als Kröte aus der Höhle tritt, erwartet sie der riesige Adler [[Arborius]] mit Liserl auf den Schultern. Er schenkt ihr einen Motten-Talisman und berichtet, dass sich im [[Sumpf|Norden]] viele Söldner versammelt haben. Tarin baut einen Karren für die Kisten, und die Gruppe bringt die Ware zurück nach Galador.

@@ -14,7 +14,7 @@ Friedrich Adolf von Haugwitz ist der Fürst von [[Galador]]. Seit seine Frau im 
 | **Ort** | Galador |
 | **Status** | lebt |
 | **Familie** | Sohn [[Phillip der Schöne]], angeblich eine Tochter |
-| **Erstmals erwähnt** | Kapitel 6 |
+| **Erstmals erwähnt** | [[Kapitel 6]] |
 
 ## Was man sich erzählt
 
@@ -24,5 +24,5 @@ Friedrich Adolf von Haugwitz ist der Fürst von [[Galador]]. Seit seine Frau im 
 
 ## Begegnungen
 
-### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 [[Torben Moosback]] erzählt der Gruppe, dass Phillip der Schöne der Erbe des Fürsten ist, und erwähnt Gerüchte über eine Schwester Phillips.

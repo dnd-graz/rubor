@@ -40,10 +40,10 @@ Kairu hilft den Unterdrückten instinktiv, meidet jedoch enge Bindungen. Vertrau
 
 ## In der Kampagne
 
-### Kapitel 1 – Das Flüstern des Waldes
+### [[Kapitel 1|Kapitel 1 – Das Flüstern des Waldes]]
 Auf einem [[Wald im Blumental#Der Wald|Waldpfad]] trifft Kairu auf [[Hildrissa]], [[Tarin]] und [[Kröte]], als Banditen einen Händler überfallen. Er verschwindet zwischen den Schatten, und seine Dolche finden ihre Ziele mit tödlicher Präzision.
 
-### Kapitel 2 – Die Schatten
+### [[Kapitel 2|Kapitel 2 – Die Schatten]]
 Kairu bringt [[Diana Eichenblatt|Dianas]] Lehrling [[Gunnar]] zum Tempel des Morninglord und zeigt dem [[Priester von Wald im Blumental|Priester]] die Eisenmünze aus der Goblin-Höhle. Als der Geistliche das Symbol erkennt, huscht ein Schatten über sein Gesicht: Es ist das Zeichen des Morninglord.
 
 In der Nacht vor der Gerichtsverhandlung befreit Kairu heimlich den [[Gefangener Bandit|gefangenen Banditen]]. Niemand ahnt, dass er es war. Die Freiheit des Banditen währt allerdings nur wenige Stunden, dann fangen ihn die Dorfbewohner erneut.
@@ -52,23 +52,23 @@ Im Kampf gegen den Priester im Hain wirft Kairu Diana die Geige zu und ruft: „
 Es war eines der letzten Artefakte dieser Art.
 Als Diana sich in einen Vogel verwandelt und flieht, fängt er den fallenden **Pfortenstein** gerade noch auf, bevor er auf dem Boden aufschlägt.
 
-### Kapitel 3 – Eine Reise ins Ungewisse
+### [[Kapitel 3|Kapitel 3 – Eine Reise ins Ungewisse]]
 Kairu verwahrt nun den Pfortenstein und behält dabei stets [[Hildrissa]] im Auge, da er um ihre Vorliebe für wertvolle Dinge weiß.
 
 Bei einer Schlägerei in der Unterstadt von [[Galador]] versucht er zunächst zu vermitteln. Als die Gegner angreifen, formt er eine Peitsche aus Wasser und tötet seinen Gegner mit einem einzigen Hieb. Mitten im Gefecht spürt er ein dumpfes Grollen in seinem Rucksack. Über ihren Köpfen scheint der Himmel aufzureißen, und ein kleines, hässliches [[Wesen aus dem Portal|Wesen]] fällt heraus. Als [[Chad]] mitbekommt, wie die Gruppe über den Stein spricht, redet Kairu sich heraus: Es sei nur ein gewöhnlicher Edelstein ohne jede Magie.
 
 Die Nacht, in der er auf seinem Rucksack mitsamt dem Pfortenstein schläft, bekommt seinem Rücken gar nicht.
 
-### Kapitel 4 – Der Auftrag
+### [[Kapitel 4|Kapitel 4 – Der Auftrag]]
 Vor der [[Heiligenstätte|Höhle der Banditen]] riecht Kairu mit seiner findigen Nase, dass in den Kisten des [[Bernd Pracker|Kümmelkaisers]] geschmuggeltes Gut transportiert wurde.
 
-### Kapitel 5 – Ein Rätsel im Dunkeln
+### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 In [[Ezekiel|Ezekiels]] Bibliothek zieht Kairu einen vielversprechenden Band aus dem Regal: *Reliquien der Elfen, Band 1* von Elminster Aumar. Darin werden die Pfortensteine erwähnt. Sie sollen Städte unter Wasser erbaut und Stein geformt haben, und viele trachteten danach, sie als Waffe zu verwenden. Kairu liest von Spiegelwelten und von einem Ritual, das wahrscheinlich den Kataklysmus auslöste, mit dem die alte Zivilisation der Elfen unterging.
 
-### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 Mit [[Kröte]] geht Kairu zum Tempel des Ilmater. Ein [[Priester des Ilmater|Priester]] begutachtet dort den Pfortenstein. Er schneidet sich in die Hand und ruft den Namen seiner Heimatstadt, doch der Stein leuchtet nur kurz auf. Seine Erklärung: Ein Opfer und der starke Wille, an einen anderen Ort zu gelangen, können den Stein spontan auslösen. Um ihn kontrolliert zu öffnen, braucht es einen bestimmten Zauber oder ein Ritual. Die Gruppe darf jederzeit wiederkommen, auch mit weiteren Steinen. Sein Angebot, den Stein zu verwahren, lehnt sie ab.
 
 Am Hafen steigt Kairu mit [[Chad]] in ein kleines Fischerboot hinter dem Schiff der von Taras. Der Fischer darin ist ein Spion [[Phillip der Schöne|Phillips des Schönen]], und Chad tötet ihn kurzerhand. Seine letzten Worte sind: „Ich will nur nach Hause …" Da reagiert der Pfortenstein: Ein Portal öffnet sich, eine Kreatur, halb Spinne, halb Mensch, zieht den Sterbenden hinein, und das Portal schließt sich wieder. Durch eine kleine Luke gelangen Kairu und Chad ins Schiff und schleichen durch das erste Unterdeck bis zur vorderen Treppe.
 
-### Kapitel 7 – Die Nacht im Hafen
+### [[Kapitel 7|Kapitel 7 – Die Nacht im Hafen]]
 Als an Deck das Chaos ausbricht, kommt Kairu die vordere Treppe hoch. [[Jarosch Pernegger|Hauptmann Jarosch]] ist mit dem Kraken beschäftigt, also schleicht Kairu in die Kajüte am Bug und schlägt [[Ferdinand von Tara]] nieder, bevor dieser reagieren kann. Ferdinand fällt damit für den ganzen Kampf aus, und niemand kann ihn zum Kämpfen anstacheln. Das verhindert die Eskalation. Als Ferdinand später wieder zu sich kommt, scheint er nicht zu wissen, wer ihn niedergeschlagen hat.

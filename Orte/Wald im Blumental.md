@@ -13,7 +13,7 @@ Wald im Blumental ist ein Dorf, das seinem Namen alle Ehre macht. Fernab der Hau
 | **Lage** | in einem uralten Wald |
 | **Bekannt für** | Instrumente aus Klangholz |
 | **Bürgermeisterin** | [[Hyala]] |
-| **Besucht** | Kapitel 1, 2 |
+| **Besucht** | [[Kapitel 1]], [[Kapitel 2|2]] |
 
 ## Das Klangholz
 
@@ -45,10 +45,10 @@ Der Hain ist der Ort, aus dem das Klangholz stammt. Er ist nicht Teil dieser Wel
 
 ## Was hier geschah
 
-### Kapitel 1 – Das Flüstern des Waldes
+### [[Kapitel 1|Kapitel 1 – Das Flüstern des Waldes]]
 Nach dem Überfall auf Torben bringt die Gruppe ihn ins Dorf. Überall hört sie Dianas Namen. Der gefangene Bandit gesteht, dass ein Überfall auf Diana geplant ist. Die Spur führt zur verlassenen Werkstatt und weiter zur Goblin-Höhle, wo die Gruppe Boglock und seine Goblins besiegt.
 
-### Kapitel 2 – Die Schatten
+### [[Kapitel 2|Kapitel 2 – Die Schatten]]
 Zurück im Dorf trifft Hildrissa auf den Edelmetallhändler [[Kretzak]], der ihr vom Verschwinden des Zwergs [[Kroblob]] erzählt. Die Gruppe deckt den Kreis des Dorfpriesters auf, folgt einem schwarzen Schatten durch den Wald zur Lichtung und durch das Portal in den Hain. Dort besiegt sie erst den Priester, dann Diana, und nimmt den Pfortenstein an sich.
 
 Als die Gruppe aus dem Portal zurückkehrt, erwartet sie der Priester, verletzt, aber lebendig. Er will den Stein für seinen Tempel. Niemand antwortet. Der Priester lässt die Gruppe ziehen. Vorerst.

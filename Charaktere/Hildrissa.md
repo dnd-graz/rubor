@@ -34,29 +34,29 @@ Nun hat sie das Gebirge hinter sich gelassen. Ihr Ziel ist klar: Sie will ihre E
 
 ## In der Kampagne
 
-### Kapitel 1 – Das Flüstern des Waldes
+### [[Kapitel 1|Kapitel 1 – Das Flüstern des Waldes]]
 Auf einem Waldpfad trifft Hildrissa auf [[Kairu]], [[Tarin]] und [[Kröte]], als Banditen einen Händler überfallen. Ihre Drachenmale leuchten auf, und ein Funkenregen aus ihren Händen streckt einen der Angreifer nieder.
 
-### Kapitel 2 – Die Schatten
+### [[Kapitel 2|Kapitel 2 – Die Schatten]]
 In [[Wald im Blumental]] spricht sie der zwergische Edelmetallhändler [[Kretzak]] an: Sie schulde ihm noch immer eine Erklärung für das, was sie ihm gestohlen habe.
 
 Hildrissa nimmt die Gestalt der Bürgermeisterin [[Hyala]] an und sucht so den [[Priester von Wald im Blumental|Dorfpriester]] auf. In der Nacht beobachtet sie, wie vermummte Gestalten in schwarzen Kutten beim Tempel erscheinen, unter ihnen der Priester selbst.
 
 Im Hain entdeckt sie eine zwergische Brosche, die aus einem frisch ausgehobenen Grab ragt. Als sie droht, den ganzen Wald niederzubrennen, gibt [[Diana Eichenblatt|Diana]] auf.
 
-### Kapitel 3 – Eine Reise ins Ungewisse
+### [[Kapitel 3|Kapitel 3 – Eine Reise ins Ungewisse]]
 Bei einer Schlägerei in der Unterstadt von [[Galador]] lässt sie Flammen aus ihren Händen lodern. Das kleine [[Wesen aus dem Portal|Wesen, das aus dem Portal gefallen ist]], schläfert sie mit einem Zauber ein, sodass die Stadtwache es fesseln kann.
 
-### Kapitel 4 – Der Auftrag
+### [[Kapitel 4|Kapitel 4 – Der Auftrag]]
 Mit ihrer Magierhand befreit sie zwei Händler aus einer Seilfalle und öffnet vorsichtig die Tür zur [[Heiligenstätte|Höhle der Banditen]]. Aus einer Kiste der Schmuggelware nimmt sie Bolzen für ihre Armbrust.
 
-### Kapitel 5 – Ein Rätsel im Dunkeln
+### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 In der Heiligenstätte durchsucht sie die zwei Steintruhen und findet Mondsteine und uralte Münzen. Darunter liegt auch ein Ring mit einem wunderschönen, tiefschwarzen Edelstein. Damit niemand bemerkt, wie sie ihn einsteckt, beschwört Hildrissa einen Fledermausschwarm, der kurz Panik auslöst. Der Ring schützt seine Trägerin vor nekrotischem Schaden. Den anderen hat sie bis heute nichts davon erzählt.
 
-### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 In der Oberstadt begegnet die Gruppe [[Kretzak]] wieder, diesmal in seinem eigenen Laden. Von seinem Ärger ist nichts mehr zu spüren: Er spricht Hildrissas Begleiter an und erzählt, er sei stolz auf sie, weil sie die Lage in Wald im Blumental gelöst habe. Sie sei besser, als er sie eingeschätzt habe.
 
 Mit [[Tarin]] geht sie zur Bastion und schlägt dort per Handschlag in einen Auftrag ein: [[Ferdinand von Tara]] soll noch in derselben Nacht entführt werden. In der Hafentaverne bringt sie mit einem Zauber einen [[Hehler am Hafen|Hehler]] dazu, der Gruppe seine Karten zu schenken. Auf dem Schiff warnt sie Ferdinand, doch in seiner Kajüte versagt ihre Magie.
 
-### Kapitel 7 – Die Nacht im Hafen
+### [[Kapitel 7|Kapitel 7 – Die Nacht im Hafen]]
 Vom Steg aus löst Hildrissa mit ihrer Magierhand eine Leine nach der anderen, bis das Schiff freikommt. Im letzten Moment springt sie hinüber und schafft es nur mit Mühe an Bord.

@@ -12,11 +12,11 @@ Dolus von Dagorlad ist ein Söldnerführer. Die Gruppe kennt ihn bisher nur als 
 | **Rolle** | Söldnerführer |
 | **Aufenthaltsort** | angeblich im Norden, beim [[Sumpf|Turm im Sumpf]] |
 | **Status** | unbekannt |
-| **Erstmals erwähnt** | Kapitel 5 |
+| **Erstmals erwähnt** | [[Kapitel 5]] |
 
 ## Was die Gruppe weiß
 
-### Kapitel 5 – Ein Rätsel im Dunkeln
+### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 In der [[Heiligenstätte]] trägt ein schwer verletzter Fremder eine Schriftrolle bei sich, unterzeichnet von einem gewissen Dolus:
 
 > „Nur das Artefakt, lasst den Rest, wo er ist."
@@ -29,8 +29,8 @@ Der Adler [[Arborius]] berichtet, dass sich im Norden viele Söldner versammelt 
 
 Siehe auch: [[Fregenal]].
 
-### Kapitel 6 – Ein Überfall im Dunkel der Nacht
+### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 [[Baron Hieronymus von Schlick]] beschuldigt [[Ferdinand von Tara]], die Söldner in den Norden gebracht zu haben.
 
-### Kapitel 7 – Die Nacht im Hafen
+### [[Kapitel 7|Kapitel 7 – Die Nacht im Hafen]]
 Die von Taras beauftragen die Gruppe herauszufinden, wer hinter den Söldnern im Norden steckt.
