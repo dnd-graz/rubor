@@ -7,6 +7,8 @@ tags:
 ---
 Dolus von Dagorlad ist ein Söldnerführer. Die Gruppe kennt ihn bisher nur als Namen und als Unterschrift.
 
+![[dolus_intro.mp3]]
+
 | | |
 |---|---|
 | **Rolle** | Söldnerführer |

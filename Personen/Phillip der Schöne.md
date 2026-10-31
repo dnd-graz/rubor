@@ -7,6 +7,8 @@ tags:
 ---
 Phillip der Schöne ist der Erbe des [[Fürst von Haugwitz|Fürsten von Haugwitz]] in [[Galador]].
 
+![[phillip_intro.mp3]]
+
 | | |
 |---|---|
 | **Rolle** | Erbe des Fürsten von Haugwitz |
