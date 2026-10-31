@@ -3,7 +3,7 @@ title: Kapitel 3 – Eine Reise ins Ungewisse
 tags:
   - kapitel
 ---
-Mit dem Pfortenstein im Gepäck macht sich die Gruppe auf nach [[Galador]], denn dort soll es eine große Bibliothek geben. Am Stadttor gewinnt sie einen neuen, unberechenbaren Gefährten, in der Unterstadt fällt etwas vom Himmel, und am nächsten Morgen lässt ein mächtiger Mann nach ihnen schicken.
+Mit dem [[Pfortenstein]] im Gepäck macht sich die Gruppe auf nach [[Galador]], denn dort soll es eine große Bibliothek geben. Am Stadttor gewinnt sie einen neuen, unberechenbaren Gefährten, in der Unterstadt fällt etwas vom Himmel, und am nächsten Morgen lässt ein mächtiger Mann nach ihnen schicken.
 
 | | |
 |---|---|

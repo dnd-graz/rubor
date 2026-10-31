@@ -31,7 +31,7 @@ Durch ein Portal auf einer Waldlichtung folgt die Gruppe ihr in den Hain, wo der
 Danach will Diana die Gruppe auffällig schnell loswerden. [[Hildrissa]] entdeckt eine zwergische Brosche in einem frisch aufgewühlten Grab. Diana behauptet, dort lägen ihre Ahnen, doch niemand glaubt ihr mehr. Als Kairu die Geige zerschlägt, verwandelt sie sich in einen gewaltigen Wolf, dessen Fell wie Sonnenlicht strahlt und dessen Bisse wie heiliges Feuer brennen. Erst als Hildrissa droht, den ganzen Wald niederzubrennen, gibt sie auf.
 
 Gefesselt offenbart sie:
-- Der Hain ist nicht Teil dieser Welt. In seinem Zentrum liegt ein **Pfortenstein**, der Portale zwischen den Welten öffnet.
+- Der Hain ist nicht Teil dieser Welt. In seinem Zentrum liegt ein **[[Pfortenstein]]**, der Portale zwischen den Welten öffnet.
 - Jede Öffnung verlangt einen Preis: Blut. Deshalb die Leichen, die Gräber, die verschwundenen Menschen.
 - „Wenn die Opfer enden, endet die Kontrolle." Dann reißen die Tore auf, und andere Welten stürzen auf diese.
 - Es gibt weitere Pfortensteine, viele weitere. Wer mehrere vereint, könnte Macht erlangen, die selbst Könige erschüttern würde.

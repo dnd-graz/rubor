@@ -58,7 +58,7 @@ Die Lösung ist **Schatten**. Chad spricht das Wort auf Elbisch aus, und die Tü
 ### Das Allerheiligste
 Im letzten Raum stehen ein zweiter Altar, zwei steinerne Truhen und eine Halterung, in der einmal ein großer Edelstein verwahrt worden sein muss. Sie ist leer.
 
-Hier hat [[Tarin]] eine Vision: einen Stein, dem Pfortenstein nicht unähnlich, in dem dichter Nebel wabert, eine violette Gestalt mit Hörnern und furchteinflößende Steingolems, die die Banditen töten. Seither ist er sicher, dass hier einst ein Pfortenstein lag, und dass es dieses Artefakt war, das Dolus haben wollte.
+Hier hat [[Tarin]] eine Vision: einen Stein, dem [[Pfortenstein]] nicht unähnlich, in dem dichter Nebel wabert, eine violette Gestalt mit Hörnern und furchteinflößende Steingolems, die die Banditen töten. Seither ist er sicher, dass hier einst ein Pfortenstein lag, und dass es dieses Artefakt war, das Dolus haben wollte.
 
 In den Truhen findet [[Hildrissa]] Mondsteine, uralte Münzen und einen Ring mit einem tiefschwarzen Edelstein, den sie heimlich einsteckt.
 

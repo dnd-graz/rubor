@@ -3,7 +3,7 @@ title: Galador
 tags:
   - ort
 ---
-Galador ist eine große, geschäftige Stadt mit einem eigenen Hafen. Hier gibt es eine große Bibliothek, und deshalb kam die Gruppe hierher: um Antworten zum Pfortenstein zu suchen. Seither ist Galador der Dreh- und Angelpunkt ihrer Abenteuer.
+Galador ist eine große, geschäftige Stadt mit einem eigenen Hafen. Hier gibt es eine große Bibliothek, und deshalb kam die Gruppe hierher: um Antworten zum [[Pfortenstein]] zu suchen. Seither ist Galador der Dreh- und Angelpunkt ihrer Abenteuer.
 
 | | |
 |---|---|

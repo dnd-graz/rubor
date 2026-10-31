@@ -49,7 +49,7 @@ Die Lösung des Rätsels ist **Schatten**. Chad spricht das Wort auf Elbisch aus
 
 Im letzten Raum stehen ein zweiter Altar, zwei steinerne Truhen und eine Halterung, in der einmal ein großer Edelstein verwahrt worden sein muss.
 
-Plötzlich werden Tarins Augen glasig, und er sackt auf die Knie. In einer Vision sieht er einen Stein, dem Pfortenstein nicht unähnlich, in dem dichter Nebel wabert. Er sieht eine violette Gestalt mit Hörnern, und er sieht hilflos zu, wie furchteinflößende Steingolems die Banditen töten. Als er zu sich kommt, ist er sicher: Hier lag einst ein Pfortenstein. Das muss das Artefakt sein, das Dolus haben wollte.
+Plötzlich werden Tarins Augen glasig, und er sackt auf die Knie. In einer Vision sieht er einen Stein, dem [[Pfortenstein]] nicht unähnlich, in dem dichter Nebel wabert. Er sieht eine violette Gestalt mit Hörnern, und er sieht hilflos zu, wie furchteinflößende Steingolems die Banditen töten. Als er zu sich kommt, ist er sicher: Hier lag einst ein Pfortenstein. Das muss das Artefakt sein, das Dolus haben wollte.
 
 [[Hildrissa]] nutzt die allgemeine Verwirrung und plündert die beiden Truhen: Mondsteine, uralte Münzen und einen Ring mit einem wunderschönen, tiefschwarzen Edelstein. Damit niemand sieht, wie sie den Ring einsteckt, beschwört sie einen Fledermausschwarm, der kurz Panik ausbrechen lässt.
 

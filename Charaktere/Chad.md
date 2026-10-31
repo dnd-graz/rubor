@@ -23,7 +23,7 @@ Vor den Toren von [[Galador]] stupst ihn ein kleines Goblinmädchen ins Knie und
 
 In der Unterstadt übernimmt Chad die Rolle des Stadtführers und führt die anderen sogleich in die nächste Taverne. Als draußen eine Schlägerei ausbricht und [[Kairu]] noch zu vermitteln versucht, trabt Chad los und spießt willkürlich einen der Männer auf seinen Hörnern auf. Den anderen wird schlagartig klar, wen sie da in ihre Gruppe gelassen haben.
 
-Blutüberströmt und viel zu gut gelaunt stampft er danach zu ihnen herüber und schnappt auf, wie sie über den Pfortenstein sprechen. Kairu behauptet, es sei nur ein gewöhnlicher Edelstein. Chad zuckt mit den Schultern und wendet sich interessanteren Dingen zu.
+Blutüberströmt und viel zu gut gelaunt stampft er danach zu ihnen herüber und schnappt auf, wie sie über den [[Pfortenstein]] sprechen. Kairu behauptet, es sei nur ein gewöhnlicher Edelstein. Chad zuckt mit den Schultern und wendet sich interessanteren Dingen zu.
 
 [[Ezekiel|Ezekiels]] Einladung darf er nur folgen, nachdem Kröte ihn hat schwören lassen, auf dem Weg niemanden zu töten. Bei Ezekiel verlangt er nach Würstchen, die ihm alsbald auf einem Silbertablett serviert werden.
 

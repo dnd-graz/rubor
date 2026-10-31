@@ -3,7 +3,7 @@ title: Kapitel 2 – Die Schatten
 tags:
   - kapitel
 ---
-Die Goblins sind besiegt, doch in [[Wald im Blumental]] brodelt es. Die Gruppe stößt auf einen Kreis von Kuttenträgern, folgt einem schwarzen Schatten durch ein Portal in eine andere Welt und kehrt mit einem Artefakt zurück, das Welten vernichten kann: dem Pfortenstein.
+Die Goblins sind besiegt, doch in [[Wald im Blumental]] brodelt es. Die Gruppe stößt auf einen Kreis von Kuttenträgern, folgt einem schwarzen Schatten durch ein Portal in eine andere Welt und kehrt mit einem Artefakt zurück, das Welten vernichten kann: dem [[Pfortenstein]].
 
 | | |
 |---|---|

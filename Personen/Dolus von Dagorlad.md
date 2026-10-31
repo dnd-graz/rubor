@@ -21,7 +21,7 @@ In der [[Heiligenstätte]] trägt ein schwer verletzter Fremder eine Schriftroll
 
 > „Nur das Artefakt, lasst den Rest, wo er ist."
 
-In der leeren Halterung der Heiligenstätte wurde wohl einst ein Pfortenstein verwahrt. Die Gruppe vermutet, dass er das Artefakt ist, das Dolus unbedingt haben wollte.
+In der leeren Halterung der Heiligenstätte wurde wohl einst ein [[Pfortenstein]] verwahrt. Die Gruppe vermutet, dass er das Artefakt ist, das Dolus unbedingt haben wollte.
 
 Der Adler [[Arborius]] berichtet, dass sich im Norden viele Söldner versammelt haben. [[Ezekiel]] weiß mehr über Dolus:
 

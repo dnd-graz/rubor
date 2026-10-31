@@ -80,7 +80,7 @@ Er berichtet außerdem, dass sich im [[Sumpf|Norden]] viele Söldner versammelt 
 ### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
 Beim Juwelier in der Oberstadt liegt die Ware verlockend offen aus. Der Laden gehört [[Kretzak]], dem zwergischen Edelmetallhändler, der [[Hildrissa]] in Wald im Blumental noch verärgert zur Rede gestellt hatte. Inzwischen ist er stolz auf sie, weil sie die Lage dort gelöst hat. Kröte stiehlt ein Diadem, ohne dass er etwas bemerkt, und schenkt es [[Chad]]: „Steht dir bestimmt gut!" Chad trägt es seitdem stolz auf dem Kopf.
 
-Mit [[Kairu]] geht sie zum Tempel des Ilmater, wo ein [[Priester des Ilmater|Priester]] den Pfortenstein begutachtet.
+Mit [[Kairu]] geht sie zum Tempel des Ilmater, wo ein [[Priester des Ilmater|Priester]] den [[Pfortenstein]] begutachtet.
 
 Am Hafen hält Kröte Wache außerhalb des Schiffs der von Taras. Als der Hilferuf von drinnen kommt, verwandelt sie sich in einen Riesenoktopus und richtet mit einem Tentakel Chaos an Deck an. Der ganze Hafen ist in Aufruhr.
 

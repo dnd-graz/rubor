@@ -3,7 +3,7 @@ title: Kairu
 tags:
   - spielercharakter
 ---
-Kairu ist ein Tiefling und Mönch. Sein scharfes Lächeln macht viele Menschen nervös, doch hinter der Fassade eines gewitzten Schurken verbirgt sich ein warmherziger Mann, der denen hilft, die in Not geraten sind. Er verwahrt den Pfortenstein der Gruppe.
+Kairu ist ein Tiefling und Mönch. Sein scharfes Lächeln macht viele Menschen nervös, doch hinter der Fassade eines gewitzten Schurken verbirgt sich ein warmherziger Mann, der denen hilft, die in Not geraten sind. Er verwahrt den [[Pfortenstein]] der Gruppe.
 
 ## Steckbrief
 

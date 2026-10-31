@@ -15,7 +15,7 @@ Ethos ist die Heimatstadt des [[Priester des Ilmater|Priesters des Ilmater]], de
 ## Was die Gruppe weiß
 
 ### [[Kapitel 6|Kapitel 6 – Ein Überfall im Dunkel der Nacht]]
-Im [[Galador#Tempel des Ilmater|Tempel des Ilmater]] zeigen [[Kröte]] und [[Kairu]] dem Priester den Pfortenstein. Er wagt ein Experiment: Er schneidet sich in die Hand und ruft den Namen seiner Heimatstadt:
+Im [[Galador#Tempel des Ilmater|Tempel des Ilmater]] zeigen [[Kröte]] und [[Kairu]] dem Priester den [[Pfortenstein]]. Er wagt ein Experiment: Er schneidet sich in die Hand und ruft den Namen seiner Heimatstadt:
 
 > „Ethos!"
 

@@ -41,7 +41,7 @@ Der Wald rund um das Dorf ist [[Kröte|Krötes]] Heimat. Sie kennt jeden Bachlau
 
 ## Der Hain
 
-Der Hain ist der Ort, aus dem das Klangholz stammt. Er ist nicht Teil dieser Welt und nur durch das Portal auf der Lichtung zu erreichen. In seinem Zentrum war der **Pfortenstein** verborgen, den die Gruppe seither bei sich trägt. Hier findet [[Hildrissa]] in einem frisch aufgewühlten Grab eine zwergische Brosche.
+Der Hain ist der Ort, aus dem das Klangholz stammt. Er ist nicht Teil dieser Welt und nur durch das Portal auf der Lichtung zu erreichen. In seinem Zentrum war der **[[Pfortenstein]]** verborgen, den die Gruppe seither bei sich trägt. Hier findet [[Hildrissa]] in einem frisch aufgewühlten Grab eine zwergische Brosche.
 
 ## Was hier geschah
 

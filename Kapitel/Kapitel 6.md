@@ -33,7 +33,7 @@ Hildrissa und [[Tarin]] suchen in der [[Galador#Bastion|Bastion]], dem Sitz von 
 Chad geht in eine Taverne. Der Wirt erzählt ihm von einem Hehler am Hafen, der Schatzkarten verkauft, angeblich zu elfischen Relikten.
 
 ### Im Tempel des Ilmater
-Kröte und [[Kairu]] zeigen einem Priester aus Ethos den Pfortenstein. Er wagt ein Experiment: Er schneidet sich in die Hand und ruft den Namen seiner Heimatstadt: „Ethos!" Der Stein leuchtet kurz auf, sonst geschieht nichts.
+Kröte und [[Kairu]] zeigen einem Priester aus Ethos den [[Pfortenstein]]. Er wagt ein Experiment: Er schneidet sich in die Hand und ruft den Namen seiner Heimatstadt: „Ethos!" Der Stein leuchtet kurz auf, sonst geschieht nichts.
 
 Seine Erklärung: Ein Opfer und der starke Wille, an einen anderen Ort zu gelangen, können den Stein spontan auslösen. Um ihn kontrolliert zu öffnen, braucht es einen bestimmten Zauber oder ein Ritual. Mehr weiß er nicht, deutet aber an, dass es solche Magie gibt. Die Gruppe darf jederzeit wiederkommen, auch mit weiteren Steinen. Sein Angebot, die Steine zu verwahren, lehnt sie ab.
 

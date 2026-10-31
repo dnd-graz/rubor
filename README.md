@@ -42,5 +42,4 @@ To host somewhere other than GitHub Pages:
 - Frontmatter: `title`, optional `aliases` (each alias gets a redirect page), `tags`. `draft: true` excludes a page from the build.
 - Links are Obsidian-style `[[Page]]` / `[[Page|Text]]` / `[[Page#Heading]]`, resolved by shortest unique path, so folder names aren't needed.
 - Images go in `_attachments/` and audio in `audio/`. Embed them with `![[file.jpg|320]]` / `![[file.mp3]]`.
-- Paths matched by `ignorePatterns` in the config (`private`, `templates`, `.obsidian`, this README) aren't published.
-- All site content is in German. The site is read by the players, so nothing goes in that they haven't learned at the table.
+- Paths matched by `ignorePatterns` in the config (`private`, `templates`, `.obsidian`) aren't published.

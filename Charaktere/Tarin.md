@@ -48,7 +48,7 @@ Auf einem [[Wald im Blumental#Der Wald|Waldpfad]] trifft Tarin auf [[Hildrissa]]
 ### [[Kapitel 5|Kapitel 5 – Ein Rätsel im Dunkeln]]
 Während seiner Nachtwache vor der [[Heiligenstätte|Höhle]] hört Tarin ein kurioses Rascheln im Unterholz, kann die Ursache aber nicht ausmachen. Es war das Eichhörnchen [[Liserl]], das nach Kröte suchte.
 
-In der Heiligenstätte, vor der leeren Halterung, werden seine Augen plötzlich glasig, und er sackt auf die Knie. Eine Vision offenbart sich ihm: ein Stein, dem Pfortenstein nicht unähnlich, in dem dichter Nebel wabert. Dazu eine violette Gestalt mit Hörnern. Hilflos sieht er zu, wie furchteinflößende Steingolems die Banditen töten. Als er zu sich kommt, ist er sich sicher, dass hier einst ein Pfortenstein aufbewahrt wurde.
+In der Heiligenstätte, vor der leeren Halterung, werden seine Augen plötzlich glasig, und er sackt auf die Knie. Eine Vision offenbart sich ihm: ein Stein, dem [[Pfortenstein]] nicht unähnlich, in dem dichter Nebel wabert. Dazu eine violette Gestalt mit Hörnern. Hilflos sieht er zu, wie furchteinflößende Steingolems die Banditen töten. Als er zu sich kommt, ist er sich sicher, dass hier einst ein Pfortenstein aufbewahrt wurde.
 
 Für die wiedererlangten Handelsgüter baut er einen notdürftigen Karren. In [[Ezekiel|Ezekiels]] Bibliothek fragt er den Diener [[Johann]] im Geheimen nach einem Buch über magische Schwerter, vor allem über solche, die plötzlich erscheinen. Johann hüstelt und meint, ein Buch über das **Schattenfell** könnte dazu nützliche Informationen enthalten.
 
